@@ -13,9 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2022-01-03T00:29:35.426+01:00
-  initializedAtString: 2022-01-02T23:19:36.141+01:00
-  localBranches: []
+  lastUpdatedAtString: 2022-01-03T16:25:58.409+01:00
+  initializedAtString: 2022-01-03T14:35:12.625+01:00
+  localBranches:
+  - name: BlckDev
+    tracking: 
   remoteBranches:
   - name: origin/master
     tracking: '[None]'
@@ -28,8 +30,14 @@ MonoBehaviour:
     function: 0
     token: 
   localConfigBranches:
-    keys: []
-    values: []
+    keys:
+    - BlckDev
+    values:
+    - name: BlckDev
+      remote:
+        name: 
+        url: 
+      trackingBranch: 
   remoteConfigBranches:
     keys:
     - origin
