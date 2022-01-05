@@ -13,8 +13,23 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
-    m_Keys: []
-    m_Values: 
+    m_Keys:
+    - Assets/Photo/ChessWarriors_StoryBoard_draft.pdf
+    - Assets/Photo/ChessWarriors_StoryBoard_draft.pdf.meta
+    - Assets/ProBuilder Data.meta
+    - Assets/ProBuilder Data/Default Material Palette.asset
+    - Assets/ProBuilder Data/Default Material Palette.asset.meta
+    - Assets/Scenes/lvl0_OnGroundCity.unity
+    - Assets/Water/Water Material.mat
+    - Assets/Water/Water Shader.shadergraph
+    - Assets/Water/untitled.fbx
+    - Assets/Water/untitled.fbx.meta
+    - Assets/Water/water1.png
+    - Assets/Water/water1.png.meta
+    - Assets/Water/water2.png
+    - Assets/Water/water2.png.meta
+    - 
+    m_Values: 000000000000000000000000000000
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 

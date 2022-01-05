@@ -13,12 +13,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2022-01-03T16:25:58.409+01:00
-  initializedAtString: 2022-01-03T14:35:12.625+01:00
+  lastUpdatedAtString: 2022-01-05T00:21:12.428+01:00
+  initializedAtString: 2022-01-04T23:21:10.336+01:00
   localBranches:
   - name: BlckDev
     tracking: 
   remoteBranches:
+  - name: origin/BlckDev
+    tracking: '[None]'
   - name: origin/master
     tracking: '[None]'
   remotes:
@@ -43,9 +45,15 @@ MonoBehaviour:
     - origin
     subKeys:
     - Values:
+      - BlckDev
       - master
     subKeyValues:
     - Values:
+      - name: BlckDev
+        remote:
+          name: origin
+          url: https://github.com/CherryTechnology/TZOG.git
+        trackingBranch: 
       - name: master
         remote:
           name: origin
